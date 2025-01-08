@@ -675,5 +675,15 @@
      "created_by_id": "1",
      "updated_by_id": "1",
      "treat": "0"
+    },
+    {
+        "id": "46",
+        "name": "Gepofte aardappel",
+        "description": "Aardappel met schil, gepoft in de magnetron of oven",
+        "healthy": "1",
+        "cheap": "1",
+        "fast": "1",
+        "recipe": "Stop de aardappel in de magnetron of oven. Even warmen tot hij prikgaar is. Snij hem daarna open en breng op smaak met saus of kruiden",
+        "treat": "0"
     }
    ]
