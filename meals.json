@@ -470,5 +470,15 @@
         "fast": "1",
         "recipe": "Kook de ravioli tot deze zacht is. Daarna serveren met kaas of pittige olie.",
         "treat": "1"
+    },
+    {
+        "id": "48",
+        "name": "Tacos",
+        "description": "Maistaco, gevuld met bonen, kaas, gehakt en saus",
+        "healthy": "0",
+        "cheap": "0",
+        "fast": "1",
+        "recipe": "Warm de taco op in de oven. Vul hem daarna met gekruid gehakt en saus. Top af met kaas. Even in de oven om de kaas te smelten.",
+        "treat": "0"
     }
    ]
