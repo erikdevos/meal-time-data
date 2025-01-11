@@ -490,5 +490,15 @@
         "fast": "1",
         "recipe": "Frites in de airfryer. Zout erover en saus toevoegen naar smaak. Denk ook aan gesnipperde uitjes voor een patatje speciaal of oorlog.",
         "treat": "1"
+    },
+    {
+        "id": "50",
+        "name": "Groentetaart",
+        "description": "Schotel van diverse groenten met bladerdeeg uit de oven",
+        "healthy": "1",
+        "cheap": "0",
+        "fast": "0",
+        "recipe": "Snij groenten in dunne plakken, leg deze in een ovenschaal bedekt met bladerdeeg en zet deze in de oven met een scheut olijfolie en kruiden.",
+        "treat": "1"
     }
    ]
