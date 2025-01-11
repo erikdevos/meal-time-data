@@ -480,5 +480,15 @@
         "fast": "1",
         "recipe": "Warm de taco op in de oven. Vul hem daarna met gekruid gehakt en saus. Top af met kaas. Even in de oven om de kaas te smelten.",
         "treat": "0"
+    },
+    {
+        "id": "49",
+        "name": "Friet",
+        "description": "Gebakken frietjes met diverse sausen",
+        "healthy": "0",
+        "cheap": "0",
+        "fast": "1",
+        "recipe": "Frites in de airfryer. Zout erover en saus toevoegen naar smaak. Denk ook aan gesnipperde uitjes voor een patatje speciaal of oorlog.",
+        "treat": "1"
     }
    ]
